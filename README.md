@@ -26,11 +26,17 @@ Programa exclusivo, realizado por mim, acompanhando video-aulas de professores p
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  -**Linguagem:** C#
+ 
  -**Banco de Dados:** SQL Server Express (T-SQL, Stored Procedures)
+ 
  -**Interface:** Windows Forms (WinForms)
+ 
  -**Arquitetura:** Camadas (UI, BLL, DAL, DTO)
+ 
  -**Geração de Relatórios:** iTextSharp (PDF)
+ 
  -**Controle de Versão:** Git + GitHub
+ 
  -**Outros:** DataGridView, ComboBox, MDI Forms, CRUD completo
 
 
